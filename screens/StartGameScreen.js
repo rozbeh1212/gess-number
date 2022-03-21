@@ -43,6 +43,7 @@ const StartGameScreen = (props) => {
     Keyboard.dismiss();
   };
 
+  
   let confirmedOutput;
 
   if (confirmed) {
